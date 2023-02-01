@@ -1,0 +1,119 @@
+
+
+.card-background{
+   
+box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+ border: 0;
+ text-align: center;
+ border-radius: 20px;
+
+ 
+}
+
+
+
+
+.card-background .img2{
+    border-radius: 20px;
+}
+.card-background .img3{
+    border-radius: 20px;
+}
+.card-background .img4{
+    border-radius: 20px;
+}
+
+
+
+
+.card1 .card-footer {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #0d81a0 ;
+    transition: 0.3s;
+}
+
+
+.card1 .card-footer:hover{
+
+    background-color: rgb(3, 3, 119);
+}
+
+
+
+.card-background .card-footer a{
+ text-decoration: none;
+ font-size: 23px;
+ color: white;
+}
+
+.star{
+    
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    color: gold;
+    font-size: 25px;
+}
+
+
+
+.card-background .star-left i:last-child{
+    color: black;
+}
+
+.card-background .star-purple i:nth-child(4) {
+    color: black;
+}
+
+.card-background .star-purple i:nth-child(5) {
+    color: black;
+}
+
+
+.card2 .card-footer {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #5f026b ;
+    transition: 0.3s;
+}
+
+.card2 .card-footer:hover{
+
+    background-color: #bf00d8;
+}
+
+.card3 .card-footer{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+
+    transition: 0.3s;
+}
+
+.card3 .card-footer:hover{
+
+    background-color: rgb(102, 102, 102);
+}
+
+
+.card4 .card-footer{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(253, 117, 6);
+    transition: 0.3s;
+    
+    transition: 0.3s;
+
+}
+
+.card4 .card-footer:hover{
+    background-color: rgb(190, 91, 9);;
+
+}
+
+
+
+
+
+

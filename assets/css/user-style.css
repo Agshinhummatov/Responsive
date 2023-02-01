@@ -1,0 +1,57 @@
+.card-background {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    border: 0;
+    text-align: center;
+    
+
+}
+
+
+body{
+    background-color: orange;
+}
+
+.icon{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+
+
+.icon a {
+
+    
+    background-color: #c74285;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+   text-align: center;
+   padding-top: 9px;
+    text-decoration: none;
+}
+
+.icon a i{
+    font-size: 20px;
+    color: white;
+}
+
+.card-background .icon a:nth-child(3){
+    background-color: rgb(18, 188, 255);
+}
+
+.card-background .icon a:nth-child(2){
+    background-color: rgb(255, 18, 18);
+}
+
+.card-background .icon a:nth-child(1){
+    background-color: rgb(10, 48, 173);
+}
+
+.card-background .card-body :nth-child(2){
+    color:#c74285;
+}
